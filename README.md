@@ -74,6 +74,10 @@ We have referenced the design philosophy of Lens protocol and have created four 
 
 The Nft standard and royalty metadata follow the rule of opensea. so after the collection be crated on OpTree. this collection already be initialized on opensea. The owner of the nft can sale it on opensea.
 
+## Integrate Lens Protocol(Lenster)
+
+Cause all collection created & NFT minted will invoke post/comment interface of lens, So we can see a post in creator's lenster account. and all nft is the comments of this post.
+
 ## Fair royalty distribution mechanism
 
 Cause the all nft of collection created by crowd. all of them are contributors. according to the rule of OpTree platform, The receipt address of royalty is the contract address of the nft. All contributors can claim royalty rewards from the nft contract based on their contribution.
